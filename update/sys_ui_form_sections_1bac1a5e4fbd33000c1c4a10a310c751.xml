@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1bac1a5e4fbd33000c1c4a10a310c751" sys_domain="global" table="x_348695_sinseifor_sinseiform_table" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ac1a5e4fbd33000c1c4a10a310c756</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_348695_sinseifor_sinseiform_table" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c751</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">93ac1a5e4fbd33000c1c4a10a310c753</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fac1a5e4fbd33000c1c4a10a310c75b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_348695_sinseifor_sinseiform_table" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c751</sys_ui_form>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c75a</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ac1a5e4fbd33000c1c4a10a310c758</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_348695_sinseifor_sinseiform_table" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c751</sys_ui_form>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c756</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ac1a5e4fbd33000c1c4a10a310c75a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_348695_sinseifor_sinseiform_table" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c751</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="メモ" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c758</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93ac1a5e4fbd33000c1c4a10a310c75d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_348695_sinseifor_sinseiform_table" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">1bac1a5e4fbd33000c1c4a10a310c751</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="クローズ情報" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="664ed735dd8323007850f2ee37a03900">93ac1a5e4fbd33000c1c4a10a310c75c</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_348695_sinseifor_sinseiform_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1bac1a5e4fbd33000c1c4a10a310c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_348695_sinseifor_sinseiform_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sinseiform" source="x_348695_sinseifor">870bd2da4fbd33000c1c4a10a310c753</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinseiform">870bd2da4fbd33000c1c4a10a310c753</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1bac1a5e4fbd33000c1c4a10a310c751</sys_update_name>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="ワークスペース" name="workspace">664ed735dd8323007850f2ee37a03900</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

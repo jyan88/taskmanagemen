@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Schedule" section_id="d3ac1a5e4fbd33000c1c4a10a310c73e" sys_domain="global" table="x_348695_sinseifor_sinseiform_table" version="3" view="emergencyChange">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>dfac1a5e4fbd33000c1c4a10a310c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>1</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>53ac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>2</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>d3ac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>57ac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>4</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>d7ac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>5</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>5bac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>dbac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>5fac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_required</element>
+            <position>8</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>dfac1a5e4fbd33000c1c4a10a310c73f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>53ac1a5e4fbd33000c1c4a10a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cab_delegate</element>
+            <position>10</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>d3ac1a5e4fbd33000c1c4a10a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>57ac1a5e4fbd33000c1c4a10a310c740</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Schedule" display_value="スケジュール" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="7964e0530a0a0b8c00ae51f470e50465">d3ac1a5e4fbd33000c1c4a10a310c73e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Schedule</caption>
+            <header>false</header>
+            <name>x_348695_sinseifor_sinseiform_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3ac1a5e4fbd33000c1c4a10a310c73e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Schedule</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sinseiform" source="x_348695_sinseifor">870bd2da4fbd33000c1c4a10a310c753</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinseiform">870bd2da4fbd33000c1c4a10a310c753</sys_scope>
+            <sys_update_name>sys_ui_section_d3ac1a5e4fbd33000c1c4a10a310c73e</sys_update_name>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="緊急" name="emergencyChange">7964e0530a0a0b8c00ae51f470e50465</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

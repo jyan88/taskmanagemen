@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 01:40:56</sys_created_on>
+        <sys_id>9b0bdada4fbd33000c1c4a10a310c739</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_348695_sinseifor_sinseiform_table.x_348695_sinseifor.user</sys_name>
+        <sys_package display_value="sinseiform" source="x_348695_sinseifor">870bd2da4fbd33000c1c4a10a310c753</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinseiform">870bd2da4fbd33000c1c4a10a310c753</sys_scope>
+        <sys_security_acl display_value="x_348695_sinseifor_sinseiform_table">170bdada4fbd33000c1c4a10a310c737</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9b0bdada4fbd33000c1c4a10a310c739</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 01:40:56</sys_updated_on>
+        <sys_user_role display_value="x_348695_sinseifor.user" name="x_348695_sinseifor.user">cf0bdada4fbd33000c1c4a10a310c717</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

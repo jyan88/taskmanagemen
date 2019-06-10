@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Planning" section_id="53ac1a5e4fbd33000c1c4a10a310c74e" sys_domain="global" table="x_348695_sinseifor_sinseiform_table" version="3" view="cab_workbench">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>justification</element>
+            <position>0</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>5fac1a5e4fbd33000c1c4a10a310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">53ac1a5e4fbd33000c1c4a10a310c74e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>implementation_plan</element>
+            <position>1</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>dfac1a5e4fbd33000c1c4a10a310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">53ac1a5e4fbd33000c1c4a10a310c74e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>risk_impact_analysis</element>
+            <position>2</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>53ac1a5e4fbd33000c1c4a10a310c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">53ac1a5e4fbd33000c1c4a10a310c74e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>backout_plan</element>
+            <position>3</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>d3ac1a5e4fbd33000c1c4a10a310c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">53ac1a5e4fbd33000c1c4a10a310c74e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>test_plan</element>
+            <position>4</position>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_id>57ac1a5e4fbd33000c1c4a10a310c74f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Planning" display_value="計画" name="x_348695_sinseifor_sinseiform_table" sys_domain="global" view="20699ec6db3022004d27b31be0b8f546">53ac1a5e4fbd33000c1c4a10a310c74e</sys_ui_section>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Planning</caption>
+            <header>false</header>
+            <name>x_348695_sinseifor_sinseiform_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>kaji</sys_created_by>
+            <sys_created_on>2019-06-05 01:48:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53ac1a5e4fbd33000c1c4a10a310c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Planning</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sinseiform" source="x_348695_sinseifor">870bd2da4fbd33000c1c4a10a310c753</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sinseiform">870bd2da4fbd33000c1c4a10a310c753</sys_scope>
+            <sys_update_name>sys_ui_section_53ac1a5e4fbd33000c1c4a10a310c74e</sys_update_name>
+            <sys_updated_by>kaji</sys_updated_by>
+            <sys_updated_on>2019-06-05 01:48:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="cab_workbench" name="cab_workbench">20699ec6db3022004d27b31be0b8f546</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

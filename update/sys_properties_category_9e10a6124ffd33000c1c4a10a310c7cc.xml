@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Sinseiform Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 02:03:28</sys_created_on>
+        <sys_id>9e10a6124ffd33000c1c4a10a310c7cc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sinseiform Properties</sys_name>
+        <sys_package display_value="sinseiform" source="x_348695_sinseifor">870bd2da4fbd33000c1c4a10a310c753</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sinseiform">870bd2da4fbd33000c1c4a10a310c753</sys_scope>
+        <sys_update_name>sys_properties_category_9e10a6124ffd33000c1c4a10a310c7cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 02:05:53</sys_updated_on>
+        <title><![CDATA[<p><span style="text-decoration: underline;"><strong><img title="" src="sys_attachment.do?sys_id&#61;9916d1500f9af2000d030dbce1050ede" alt="" align="baseline" border="" hspace="" vspace="" /><span style="font-size: 10pt;">  申請フォームアプリケーション　プロパティ</span></strong></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=9e10a6124ffd33000c1c4a10a310c7cc"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>9e10a6124ffd33000c1c4a10a310c7cc</documentkey>
+        <fieldname>name</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 02:03:28</sys_created_on>
+        <sys_id>59302a124ffd33000c1c4a10a310c728</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 02:03:28</sys_updated_on>
+        <tablename>sys_properties_category</tablename>
+        <value>Sinseiform Properties</value>
+    </sys_translated_text>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>9e10a6124ffd33000c1c4a10a310c7cc</documentkey>
+        <fieldname>title</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-05 02:03:28</sys_created_on>
+        <sys_id>95302a124ffd33000c1c4a10a310c726</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-05 02:03:28</sys_updated_on>
+        <tablename>sys_properties_category</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
